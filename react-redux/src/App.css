@@ -1,0 +1,10 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container button {
+  font-size: 24px;
+  margin: 5px;
+}
